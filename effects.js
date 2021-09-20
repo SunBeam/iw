@@ -4,13 +4,13 @@ define([
 	renderer
 ) {
 	let auras = {
-		reflectDamage: 0,
-		stealth: 1,
-		regenHp: 9,
-		regenMana: 10,
-		swiftness: 11,
-		holyVengeance: 8,
-		rare: 16
+		reflectDamage: 99,
+		stealth: 99,
+		regenHp: 99,
+		regenMana: 99,
+		swiftness: 99,
+		holyVengeance: 99,
+		rare: 99
 	};
 
 	return {
